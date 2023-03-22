@@ -1,11 +1,11 @@
 {
-    "name": "Osh",
-    "short_name": "Osh",
+    "name": "osh_portfolio",
+    "short_name": "osh_portfolio",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#201E1E",
-    "theme_color": "#201E1E",
-    "description": "Osh",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "my first webb portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
